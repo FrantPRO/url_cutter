@@ -15,11 +15,11 @@
 Надо нарисовать схему и доказать, что она работает.
 
 ---
-(RPD - requests per day)
-На старте   = 1M RDP ~ 12 rps
-1-й год     = 2М RDP ~ 24 rps
-2-й год     = 4М RDP ~ 47 rps
-3-й год     = 8М RDP ~ 93 rps
+(rpd - requests per day)
+На старте   = 1M rpd ~ 12 rps
+1-й год     = 2М rpd ~ 24 rps
+2-й год     = 4М rpd ~ 47 rps
+3-й год     = 8М rpd ~ 93 rps
 
 
 Что нужно:
